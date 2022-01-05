@@ -1,10 +1,4 @@
 
-/* .flex{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 30%;
-} */
 body{
     margin:0;
 }
@@ -77,10 +71,6 @@ li{
     border-radius: 100px;
     font-size: larger;
 }
-/* .figure-container{
-    background-color: aqua;
-    padding: 30px;
-} */
 button:hover{
     background-color: blue;
 }
